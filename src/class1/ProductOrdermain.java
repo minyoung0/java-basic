@@ -33,7 +33,8 @@ public class ProductOrdermain {
             total+=Arr[i].price*Arr[i].quantity;
         }
 
-        System.out.println("총 결제 금액: "+total+"원");
+          System.out.println("총 결제 금액: "+total+"원");
+
 
     }
 
